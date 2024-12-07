@@ -6,7 +6,7 @@ I love studying and learning, I’m very dedicated to my studies, so I decided t
 Let’s learn and grow together!✨  
 
 
-This is an extension of [Claudia's Library on Notion](https://claudiaslibrary.notion.site/Welcome-to-Claudia-s-Library-12a19f75683280f7af7ec17732da7c20), here you will find the code of my projects.  
+This is an extension of [Claudia's Library on Notion](https://claudiaslibrary.notion.site/Welcome-to-Claudia-s-Library-12a19f75683280f7af7ec17732da7c20)
   
 Collaborations are very welcome!⭐️  
 
