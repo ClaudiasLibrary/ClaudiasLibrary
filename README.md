@@ -7,7 +7,7 @@ Collaborations are very welcome!⭐️
 
 <h3 align="left">Currently using:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pycharm,notion,vscode,apple,swift)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pycharm,notion,vscode,apple,swift,html,kali)
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ClaudiasLibrary&hide_border=true&theme=transparent&show_icons=true&locale=en" alt="ClaudiasLibrary" /></p>
 
