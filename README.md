@@ -1,8 +1,6 @@
 ## 💫Hi!
 My name is Claudia and I’m a Computer Science student specializing in Cybersecurity.
 
-I’m also a Research Collaborator at NAS Lab UNICT.
-
 This is an extension of [Claudia's Library on Notion](https://claudiaslibrary.notion.site/Welcome-to-Claudia-s-Library-12a19f75683280f7af7ec17732da7c20)
   
 Collaborations are very welcome!⭐️  
