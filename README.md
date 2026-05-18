@@ -9,9 +9,6 @@ Collaborations are very welcome!⭐️
 
 ![My Skills](https://skillicons.dev/icons?i=kali,bash,linux,python,raspberrypi,notion,vscode,html)
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ClaudiasLibrary&hide_border=true&theme=transparent&show_icons=true&locale=en" alt="ClaudiasLibrary" /></p>
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaudiasLibrary&hide_border=true&theme=transparent&show_icons=true&locale=en&layout=compact" alt="ClaudiasLibrary" /></p>
 <!---
 ClaudiasLibrary/ClaudiasLibrary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
