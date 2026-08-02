@@ -1,5 +1,5 @@
 ## 💫Hi!
-My name is Claudia and I’m a Computer Science student specializing in Cybersecurity.
+My name is Claudia and I’m a scholar in all fields of human knowledge.
 
 This is an extension of [Claudia's Library on Notion](https://claudiaslibrary.notion.site/Welcome-to-Claudia-s-Library-12a19f75683280f7af7ec17732da7c20)
   
