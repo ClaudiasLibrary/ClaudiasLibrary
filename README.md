@@ -1,7 +1,7 @@
 ## 💫Hi!
 My name is Claudia and I’m a scholar.
 
-This is an extension of [Claudia's Library on Notion](https://claudiaslibrary.notion.site/Welcome-to-Claudia-s-Library-12a19f75683280f7af7ec17732da7c20), A library dedicated to the sum of human knowledge.
+This is an extension of [Claudia's Library on Notion](https://claudiaslibrary.notion.site/Welcome-to-Claudia-s-Library-12a19f75683280f7af7ec17732da7c20), a library dedicated to the sum of human knowledge.
   
 Collaborations are very welcome!⭐️  
 
