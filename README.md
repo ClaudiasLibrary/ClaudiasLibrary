@@ -1,5 +1,5 @@
 ## 💫Hi!
-Computer Science Graduate, Ethical Hacker, M.Sc. in AI & Computer Engineering, Scholar in all fields of human knowledge.
+My name is Claudia and I enjoy studying, writing and sharing my knowledge!
 
 This is an extension of [Claudia's Library on Notion](https://claudiaslibrary.notion.site/Welcome-to-Claudia-s-Library-12a19f75683280f7af7ec17732da7c20), a library dedicated to the sum of human knowledge.
   
